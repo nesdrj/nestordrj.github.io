@@ -41,12 +41,12 @@ export const footer: Footer = {
 
 export const about: About = {
   // parses html
-  headLine: "Hi, I'm <span class='fancy-highlight'>Shone Binu</span>",
-  tagLine: "Software Engineer / Full Stack Developer",
+  headLine: " <span class='fancy-highlight'>Nestor Ramirez</span>",
+  tagLine: "QA Engineer",
   profilePic: ProfilePic,
   // parses html
   description:
-    "I’m a recent <u>Software Engineer</u> graduate from India 🇮🇳 who likes to keep tackling new problems. Currently, I’m working on the <u>React and Node.js</u> side of things. Outside of this, I work on improving myself in whatever I see fit.",
+    "Soy egresado en <u>Sistemas Computacionales</u> y actualmente me enfoco en el área de <u>QA Engineer</u> donde busco garantizar la calidad del software mediante la detección y prevención de errores. Me motiva seguir aprendiendo y mejorando continuamente mis habilidades en el ámbito tecnológico.",
   links: [
     // Lucide icons
     { icon: "Github", href: "https://github.com/nesdrj" },
@@ -70,12 +70,12 @@ export const about: About = {
       timeline: "Sep 2021 - Dic 2024",
       institution: "Universidad Mexicana • Ver, Mexico",
       description:
-        "Me formé en el área de informática, con conocimientos en programación utilizando lenguajes como Java, Python y PHP. También tengo experiencia en el manejo de bases de datos con SQL Server, así como en redes básicas y arquitectura de computadoras.Durante mi formación, cursé asignaturas relacionadas con gestión de proyectos, ingeniería de software y administración, lo que me permitió desarrollar una perspectiva completa tanto en la parte técnica como en la organización y planeación de soluciones tecnológicas.",
+        "Me formé en el área de informática, adquiriendo conocimientos en programación, bases de datos, redes y arquitectura de computadoras. Complementé mi preparación con estudios en gestión de proyectos, ingeniería de software y administración, lo que me permitió desarrollar una visión integral para el diseño y mejora de soluciones tecnológicas.",
     },
   ],
   // parses html
   getInTouch:
-    "Drop me an email at <a href='mailto:mail@shonebinu.com' class='primary-underline'>mail@shonebinu.com</a> or connect with me on one of my socials.",
+    "Enviame un correo electronico a <a href='mailto:nesdrj@gmail.com' class='primary-underline'>nesdrj@gmail.com</a>",
 };
 
 export const projects: Project[] = [
