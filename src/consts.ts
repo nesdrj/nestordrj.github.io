@@ -81,16 +81,16 @@ export const about: About = {
 export const projects: Project[] = [
   {
     logoImage: PenweaveImage,
-    title: "Penweave",
-    techs: ["React", "Supabase", "daisyUI"],
+    title: "Diseño de Pruebas para Aplicaciones Web",
+    techs: ["Excel", "Jira", "Devtools"],
     description:
       "Penweave is a CodePen‑like tool that lets users run their HTML/CSS/JS in a browser environment with secure preview and sharing.",
     sourceHref: "https://github.com/shonebinu/penweave/",
   },
   {
     logoImage: MGUScraperImage,
-    title: "MGU Scraper",
-    techs: ["Python", "Streamlit", "Beautiful Soup"],
+    title: "Pruebas de Aplicaciones Moviles",
+    techs: ["Excel", "AndroidStudio", "Jira"],
     description:
       "MGU Scraper is a tool designed to simplify the extraction and analysis of bulk student exam results from MGU Kottayam University.",
     sourceHref: "https://github.com/shonebinu/MGUScraper",
@@ -98,8 +98,8 @@ export const projects: Project[] = [
   },
   {
     logoImage: FlashifyImage,
-    title: "Flashify",
-    techs: ["PHP", "MySQL", "LAMP"],
+    title: "Base de Datos",
+    techs: ["PostgreSQL", "Cygwin64"],
     description:
       "Flashify is a minimal, beautiful, and responsive web-based flashcard application built using the LAMP stack.",
     sourceHref: "https://github.com/shonebinu/flashify",
