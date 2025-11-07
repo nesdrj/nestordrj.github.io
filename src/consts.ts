@@ -10,6 +10,7 @@ import FlashifyImage from "./assets/projects/flashify.png";
 import WeatherifyImage from "./assets/projects/weatherify.png";
 import AplicaMovil from "./assets/projects/Aplica-Movil 1.png";
 import AplicaMovil from "./assets/projects/Aplica-Movil 2.png";
+import logovw from "./assets/projects/logo-vw.png";
 
 export const SITE_URL: string = "https://shonebinu.com";
 
@@ -101,7 +102,7 @@ export const projects: Project[] = [
    // liveHref: "https://mguscraper.streamlit.app/",
   },
   {
-    logoImage: FlashifyImage,
+    logoImage: logovw,
     title: "Base de Datos",
     techs: ["PostgreSQL", "Cygwin64"],
     description:
