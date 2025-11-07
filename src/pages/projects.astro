@@ -15,7 +15,8 @@ import { meta, projects } from "../consts.ts";
       projects.map((proj) => (
         <div class="flex gap-4">
           <div class="w-1/10">
-            <Image src={proj.logoImage} alt="Project logo" />
+           <img src={proj.logoImage} alt="Project logo" class="w-16 h-16 object-contain" />
+
           </div>
           <div class="w-9/10">
             <h3>{proj.title}</h3>
