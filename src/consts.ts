@@ -8,7 +8,7 @@ import PenweaveImage from "./assets/projects/penweave.png";
 import MGUScraperImage from "./assets/projects/mguscraper.png";
 import WeatherifyImage from "./assets/projects/weatherify.png";
 import AplicaMovil from "./assets/projects/Aplica-Movil 1.png";
-import AplicaMovil from "./assets/projects/Aplica-Movil 2.png";
+//import AplicaMovil from "./assets/projects/Aplica-Movil 2.png";
 import logovw from "./assets/projects/logo-vw.png";
 
 export const SITE_URL: string = "https://shonebinu.com";
