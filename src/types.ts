@@ -47,4 +47,5 @@ export interface Project {
   description: string;
   sourceHref?: string;
   liveHref?: string;
+  images?: string[];
 }

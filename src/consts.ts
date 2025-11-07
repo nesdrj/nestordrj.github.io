@@ -8,6 +8,8 @@ import PenweaveImage from "./assets/projects/penweave.png";
 import MGUScraperImage from "./assets/projects/mguscraper.png";
 import FlashifyImage from "./assets/projects/flashify.png";
 import WeatherifyImage from "./assets/projects/weatherify.png";
+import AplicaMovil from "./assets/projects/Aplica-Movil 1.png";
+import AplicaMovil from "./assets/projects/Aplica-Movil 2.png";
 
 export const SITE_URL: string = "https://shonebinu.com";
 
@@ -85,9 +87,8 @@ export const projects: Project[] = [
     techs: ["Excel", "Jira", "Devtools"],
     description:
       "Penweave is a CodePen‑like tool that lets users run their HTML/CSS/JS in a browser environment with secure preview and sharing.",
-    //sourceHref: "https://github.com/shonebinu/penweave/",
     images: [
-      "/assets/projects/Aplica-Movil 1.png"
+      "/assets/projects/Aplica-Movil 1.png",
     ],
   },
   {
