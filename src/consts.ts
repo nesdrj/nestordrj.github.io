@@ -7,10 +7,7 @@ import ProfilePic from "./assets/foto-perfil.jpg";
 import PenweaveImage from "./assets/projects/penweave.png";
 import MGUScraperImage from "./assets/projects/mguscraper.png";
 import WeatherifyImage from "./assets/projects/weatherify.png";
-import AplicaWeb1 from "./assets/projects/aplica-web-1.png";
-import AplicaWeb2 from "./assets/projects/aplica-web-2.png";
-import Aplicamovil1 from "./assets/projects/aplica-movil1.png";
-import Aplicamovil2 from "./assets/projects/aplica-movil2.png";
+
 import logovw from "./assets/projects/logo-vw.png";
 
 export const SITE_URL: string = "https://shonebinu.com";
@@ -89,7 +86,7 @@ export const projects: Project[] = [
     techs: ["Excel", "Jira", "Devtools"],
     description:
       "Ejecuion de pruebas funcionales y de usabilidad para una aplicacion web de renta de autos",
-    images: [AplicaWeb1, AplicaWeb2],
+    images: [],
   },
   {
     logoImage: MGUScraperImage,
@@ -97,7 +94,7 @@ export const projects: Project[] = [
     techs: ["Excel", "AndroidStudio", "Jira"],
     description:
       "Ejecucion de pruebas funcionales y de usabilidad para una aplicacion movil.",
-      images:[Aplicamovil1, Aplicamovil2],
+      images:[],
    // sourceHref: "https://github.com/shonebinu/MGUScraper",
    // liveHref: "https://mguscraper.streamlit.app/",
   },
